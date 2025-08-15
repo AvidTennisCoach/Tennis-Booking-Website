@@ -4,4 +4,4 @@
 > Special shoutout to Cursor, Claude and ChatGPT Plus for seeing me through this 😀
 
 # Tennis-Booking-Website
-This website is a friendly website for booking cat-friendly tennis courts.
+This website is a friendly website for booking tennis courts.
